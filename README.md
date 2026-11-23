@@ -69,7 +69,7 @@ Requirements:
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/infra-mind.git
+git clone https://github.com/TheKingMus01/infra-mind
 cd infra-mind
 
 Run the analyzer:
