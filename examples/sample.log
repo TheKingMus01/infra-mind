@@ -1,0 +1,7 @@
+
+2026-11-23 09:10:00 INFO Application started successfully
+2026-11-23 09:12:14 WARN High memory consumption detected
+2026-11-23 09:13:01 ERROR Out of memory: Killed process 1452
+2026-11-23 09:14:22 ERROR Connection refused to database service
+2026-11-23 09:15:30 ERROR No space left on device
+2026-11-23 09:16:10 INFO Health check completed
